@@ -2,6 +2,7 @@
 # 52-001-201...01...23
 # 52-001-201...02...NA
 # 52-001-201...03...30
+# the test for github desktop
 
 LPRP = function(Z, x, p, h){
   #Local polynomial regression estimator with Gaussian kernel
